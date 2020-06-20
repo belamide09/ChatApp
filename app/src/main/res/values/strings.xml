@@ -1,0 +1,16 @@
+<resources>
+    <color name="darkGray">#706969</color>
+
+    <string name="app_name">Chat app</string>
+    <string name="signup">Sign up</string>
+    <string name="login">Login</string>
+    <string name="user_name">User name</string>
+    <string name="password">password</string>
+    <string name="signup_underline"><u>Sign Up</u></string>
+    <string name="login_underline"><u>Login</u></string>
+    <string name="value_is_incorrect">Value is incorrect</string>
+    <string name="log_out">Log out</string>
+    <string name="chat_hint">Start a new message</string>
+    <string name="send">send</string>
+    <string name="terms_and_condition">By signing up, you agree to the Terms of Service and Privacy Policy, including Cookie Use. Others will be able to find you by searching for your email address or phone number when provided.</string>
+</resources>
